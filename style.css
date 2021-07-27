@@ -1,0 +1,15 @@
+.result{
+    font-size:15px;
+    margin-top: 10px;
+    margin-left:20px;
+    color:brown;
+    
+}
+
+.btn{
+ margin-top:5%;
+ border-radius:10px;
+ background-color: #2471A3;
+ width:120px;
+ color:#FFFFFF;
+}

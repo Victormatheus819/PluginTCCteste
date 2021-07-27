@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "LGPD Sniffer",
+    "description": "Sniffer lgpd",
+    "author": "Victor Matheus",
+    "browser_action": {
+   	 "default_title": "Plugin maluco",
+   	 "default_popup": "index.html",
+   	 "default_icon": "dollar.png"
+    },
+    "permissions":["tabs"]
+}
